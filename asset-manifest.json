@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hemant-portfolio/static/css/main.51670409.chunk.css",
+    "main.js": "/hemant-portfolio/static/js/main.9bf4c41b.chunk.js",
+    "main.js.map": "/hemant-portfolio/static/js/main.9bf4c41b.chunk.js.map",
+    "runtime-main.js": "/hemant-portfolio/static/js/runtime-main.aae446b7.js",
+    "runtime-main.js.map": "/hemant-portfolio/static/js/runtime-main.aae446b7.js.map",
+    "static/js/2.a13db50e.chunk.js": "/hemant-portfolio/static/js/2.a13db50e.chunk.js",
+    "static/js/2.a13db50e.chunk.js.map": "/hemant-portfolio/static/js/2.a13db50e.chunk.js.map",
+    "index.html": "/hemant-portfolio/index.html",
+    "static/css/main.51670409.chunk.css.map": "/hemant-portfolio/static/css/main.51670409.chunk.css.map",
+    "static/js/2.a13db50e.chunk.js.LICENSE.txt": "/hemant-portfolio/static/js/2.a13db50e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae446b7.js",
+    "static/js/2.a13db50e.chunk.js",
+    "static/css/main.51670409.chunk.css",
+    "static/js/main.9bf4c41b.chunk.js"
+  ]
+}
